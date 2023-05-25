@@ -22,7 +22,7 @@ var questions = [
 
 ]
 
-var quizContainter = document.querySelector('#quiz-container');
+var quizContainer = document.querySelector('#quiz-container');
 var startButton = document.querySelector('#start');
 var secondsLeft = document.querySelector('#seconds');
 var questionElement = document.querySelector('#questions');
