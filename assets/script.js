@@ -41,3 +41,9 @@ startButton.addEventListener("click", function() {
     
 
 }
+
+
+
+
+
+console.log('connected');
