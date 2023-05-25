@@ -27,9 +27,17 @@ var startButton = document.querySelector('#start');
 var secondsLeft = document.querySelector('#seconds');
 var questionElement = document.querySelector('#questions');
 var endGame = document.querySelector('#endgamepage');
+var landingPage = document.getElementById('mainpage');
+var currentPage = 
 
 
 
 questions[currentQuestion].question
 questions[currentQuestion].choices
 questions[currentQuestion].answer
+
+
+startButton.addEventListener("click", function() {
+    
+
+}
