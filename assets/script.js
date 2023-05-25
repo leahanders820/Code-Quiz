@@ -22,10 +22,11 @@ var questions = [
 
 ]
 
-var quizContainter = document.getElementById('quiz-container');
-var startButton = document.getElementById('start');
-var secondsLeft = document.getElementById('seconds');
-var questionElement = document.getElementById('questions');
+var quizContainter = document.querySelector('#quiz-container');
+var startButton = document.querySelector('#start');
+var secondsLeft = document.querySelector('#seconds');
+var questionElement = document.querySelector('#questions');
+var endGame = document.querySelector('#endgamepage');
 
 
 
