@@ -24,6 +24,8 @@ var questions = [
 
 var quizContainter = document.getElementById('quiz-container');
 var startButton = document.getElementById('start');
+var secondsLeft = document.getElementById('seconds');
+var questionElement = document.getElementById('questions');
 
 
 
