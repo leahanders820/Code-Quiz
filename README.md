@@ -6,3 +6,7 @@ This application is supposed to be a timed coding quiz that shows one question o
 Screenshot of website
 
 https://github.com/leahanders820/Code-Quiz/issues/1#issue-1726835882
+
+link to deployed website
+
+https://leahanders820.github.io/Code-Quiz/
