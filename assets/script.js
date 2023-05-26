@@ -1,3 +1,9 @@
+console.log("why is this not working");
+console.log('hello');
+
+
+
+
 var questions = [
 
     {
@@ -42,8 +48,26 @@ startButton.addEventListener("click", function() {
 
 }
 
+function startQuiz() {
+
+
+}
+
+function startTimer() {
+
+
+}
+
+function displayQuestion() {
+
+
+}
 
 
 
 
-console.log('connected');
+
+
+
+
+
